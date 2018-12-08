@@ -1,0 +1,8 @@
+{
+    "production": {
+        "project_name": "piadas_ruins",
+        "aws_region": "us-east-1",
+        "app_function": "app.app",
+        "runtime": "python3.6"
+    }
+}
